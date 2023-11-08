@@ -20,7 +20,7 @@ const Loginpage = () => {
         {action==="Login"?<div></div>:<div className="input">
               
               <img src={user_icon} alt="" />
-              <input type="text" placeholder="Name"/>
+              <input type="text" placeholder="Fullname"/>
           </div>}
             
 
